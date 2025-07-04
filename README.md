@@ -88,7 +88,8 @@ The app will run on `http://localhost:3000`
 
 ## 🌐 Live Demo
 
-🔗 [Deployed on Render]([https://wanderlust-xyz.onrender.com](https://wanderlust-zmn3.onrender.com/listings))
+🔗 [Deployed on Render]
+https://wanderlust-zmn3.onrender.com/listings
 
 ---
 
